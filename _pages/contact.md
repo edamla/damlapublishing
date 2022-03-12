@@ -10,7 +10,7 @@ comments: false
 PROF. KAZIM ISMAIL GURKAN CAD. NO.8
 CAGALOGLU - FATIH, 34110 ISTANBUL</div>
 <h5>Phone:</h5>
-<div><a href="tel:+902125142828">+90 212 514 28 28</a></div>
+<div><a href="tel:+902125142828,8202">+90 212 514 28 28 (8202)</a></div>
 <h5>e-posta:</h5>
 <div><a href="mailto:{{site.email}}">{{site.email}}</a></div>
 <hr>
