@@ -1,21 +1,25 @@
 ---
 layout: book
-title:  "Saçaklı Kız'ın Pasaklı Günlüğü 2 Bu İşte Bi Terslik Var!!!"
+title:  "Messy Diary of Fringe Hair 2"
+
 authors: ["nur-dombayci"]
-illustrators: #["nur-dombayci","umit-ozturk"]
+illustrators: ["nur-dombayci"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051746968.jpg
-categories: [ "Kültür", "Roman" ]
-tags: [ "günlük","eğlence","macera"]
+categories: [ "Young Adult", "Novel" ]
+tags: [ "dairy","fun","adventure"]
 previewpage: true
 
 # Book attributes
 ean: 9786051746968
-languages: ["Türkçe"]
+languages: ["English","Arabic"]
 page: 160
 size: "13,5x21cm"
 publish-number: 60
-cover: "Ciltli"
+cover: "Hard Cover"
+original-name:  "Saçaklı Kız'ın Pasaklı Günlüğü 2 Bu İşte Bi Terslik Var!!!"
+original-language: "Turkish"
+youtube: https://www.youtube.com/watch?v=nmZulTMmh1U
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/sacakli-kizin-pasakli-gunlugu-2/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001893059001"

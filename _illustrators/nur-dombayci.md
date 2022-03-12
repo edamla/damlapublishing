@@ -1,5 +1,5 @@
 ---
-layout: author
+layout: illustrator
 title: "Nur Dombaycı"
 key: "nur-dombayci"
 image: assets/images/avatar/nur_dombayci.jpg

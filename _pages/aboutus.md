@@ -1,7 +1,7 @@
 ---
-title: "Hakkımızda"
+title: "About Us"
 layout: page
-permalink: "/hakkimizda"
+permalink: "/aboutus"
 image: "/assets/images/logo.jpg"
 comments: false
 ---

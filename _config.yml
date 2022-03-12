@@ -1,25 +1,25 @@
 # Site
-name: 'Genç Damla'
-language: "tr"
-description: 'Çocuklara Okumayı Sevdiren Yayınevi...'
+name: 'Damla Publishing'
+language: "en"
+description: 'In service of education and literature since 1974...'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon/favicon.ico'
 baseurl: ''
 
 # Social Settings
 disqus: #'demowebsite'
-email: 'iletisim@damlayayinevi.com.tr'
+email: 'rights@damlayayinevi.com.tr'
 mailchimp-list: #'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 google_analytics: 'G-4HBNJGRG32'
-katalogurl: 'https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/genc-damla/index.html'
-twitter: 'https://twitter.com/gencdamlakitap'
-facebook: 'https://www.facebook.com/gencdamlakitap'
-instagram: 'https://instagram.com/gencdamla_kitap'
+katalogurl: 'https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/foreign-rights-catalogue-2022/index.html'
+twitter: 'https://twitter.com/damlayayinevi'
+facebook: 'https://www.facebook.com/damlayayinevi'
+instagram: 'https://instagram.com/damlayayinevi'
 youtube: 'https://www.youtube.com/c/DamlaYay%C4%B1nevi%C4%B0stanbul'
 
 pagepreview:
   enabled: true
-  prefix: 'https://cdn.e-damla.com.tr/damlayayinevi_ornek_sayfalar/'
+  prefix: 'https://cdn.e-damla.com.tr/PUBLIC/rights_books/'
   postfix: '/index.html'
 
 include: ["_pages"]
@@ -115,11 +115,11 @@ highlighter: rouge
 feed:
   collections:
     books:
-      path: "/kitaplar/feed.xml"
+      path: "/titles/feed.xml"
     authors:
-      path: "/yazarlar/feed.xml"
+      path: "/authors/feed.xml"
     illustrators:
-      path: "/cizerler/feed.xml"
+      path: "/illustrators/feed.xml"
 
 # excerpt
 excerpt_separator: <!--more-->
@@ -145,20 +145,20 @@ sass:
 collections:
   books:
     output: true
-    permalink: /kitaplar/:title
+    permalink: /titles/:title
     sort_by: publish-number
   authors:
     output: true
-    permalink: /yazarlar/:title
+    permalink: /authors/:title
   illustrators:
     output: true
-    permalink: /cizerler/:title
+    permalink: /ilustrators/:title
   translators:
     output: true
-    permalink: /cevirmenler/:title
+    permalink: /translators/:title
   persons:
     output: true
-    permalink: /sahsiyetler/:title
+    permalink: /persons/:title
   slides: 
     output: false
     sort_by: order

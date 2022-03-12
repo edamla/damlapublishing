@@ -1,21 +1,24 @@
 ---
 layout: book
-title:  "Saçaklı Kız'ın Pasaklı Günlüğü 1"
+title:  "Messy Diary of Fringe Hair 1"
 authors: ["nur-dombayci"]
-illustrators: #["nur-dombayci","umit-ozturk"]
+illustrators: ["nur-dombayci"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051745176.jpg
-categories: [ "Kültür", "Roman" ]
-tags: [ "günlük","eğlence","macera"]
+categories: [ "Young Adult", "Novel" ]
+tags: [ "dairy","fun","adventure"]
 previewpage: true
 
 # Book attributes
 ean: 9786051745176
-languages: ["Türkçe"]
+languages: ["English","Arabic"]
 page: 128
 size: "13,5x21cm"
 publish-number: 37
-cover: "Ciltli"
+cover: "Hard Cover"
+original-name: "Saçaklı Kızın Pasaklı Günlüğü 1"
+original-language: "Turkish"
+youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/sacakli-kizin-pasakli-gunlugu/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-oykuhikaye/urunno=0001735129001"
@@ -32,14 +35,9 @@ damlayayinevi: "https://www.damlayayinevi.com.tr/sacakli-kiz-in-pasakli-gunlugu"
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Rüzgârda dans eden dolgun saçlara mı sahip olmak istiyorsun?
-Peki sırma saçlı, ayakkabısını bile başkalarının giydirdiği prenses masallarını mı seviyorsun?
-O zaman şimdiden uyarayım YANLIŞ YERDESİN!
-Bu kitap PRENSES gibi değil, PASAKLI (birazcık), kendi işini kendi yapan, KIZLAR DÜNYASININ KURALLARINI BAŞTAN YAZAN, pembeden nefret eden, ama hayvanlar için gözünü kırpmadan kendini son hızla gelen bir topun önüne atabilecek kadar CESUR BİR KIZIN günlüğü!
-Ancak “ÖZEL GÜNLÜK OKUNAMAZ!” kuralını biliyorsun değil mi!
-Bu günlük ne kadar güzel olursa olsun sakın, bu günlüğü OKUMA! : -D
-
-Saçaklı Kızın Pasaklı Günlüğü'nde Büş; kendi gibi olmanın, insanları olduğu gibi kabullenmenin, arkadaşlığın, cesaretin ve sevginin hikâyesini günlüğünde anlatıyor.
-İlk bakışta çılgın, zıpır, deli dolu haşarılıklardan ibaret gibi görünse de gerçek bir sevgi ve hoşgörü hikâyesi Büş'ün günlüğü.
+In her messy diary of fringe hair, she explains the value of being yourself, story of love,
+accepting people as who they are and courage. At the first glance, her diary looks a
+little bit crazy and messy but in the end, it is all about love and tolerance! Welcome to
+the messy diary of Emmy!
 <!--more--> 
 
