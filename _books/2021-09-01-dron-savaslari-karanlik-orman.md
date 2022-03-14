@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "Dron Savaşçıları Karanlık Orman"
+title:  "Drone Warriors The Dark Forest"
 authors: ["necati-akbaba"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
@@ -15,7 +15,10 @@ languages: ["Türkçe"]
 page: 216
 size: "13,5x21cm"
 publish-number: 63
-cover: "Ciltli"
+cover: "Hard Cover"
+original-name: "Dron Savaşçıları Karanlık Orman"
+original-language: "Turkish"
+youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
 # Buyout Ecommerce
 dnr: #"https://www.dr.com.tr/kitap/gizemli-gizem/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001857499001"

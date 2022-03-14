@@ -5,8 +5,8 @@ authors: ["esra-avgoren"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051746029.jpg
-categories: [ "Kültür", "Hikaye" ]
-tags: [ "polisiye" ]
+categories: [ "Cultural", "Novel", "Young" ]
+tags: [ "dedective", "rookie" ]
 previewpage: true
 
 # Book attributes
@@ -15,7 +15,10 @@ languages: ["Türkçe"]
 page: 112
 size: "13,5x21cm"
 publish-number: 42
-cover: "Ciltli"
+cover: "Hard Cover"
+original-name: "Dedektif Kurutusu 2 Bu Diş izleri Kimin?"
+original-language: "Turkish"
+youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/dedektif-kuruntusu-2-bu-dis-%C4%B1zleri-kimin/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-oykuhikaye/urunno=0001750195001"

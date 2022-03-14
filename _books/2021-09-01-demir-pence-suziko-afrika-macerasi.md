@@ -15,8 +15,10 @@ languages: ["Türkçe"]
 page: 176
 size: "13,5x21cm"
 publish-number: 51
-cover: "Ciltli"
-
+cover: "Hard Cover"
+original-name: "Demir Pençe Suziko Afrika Macerası"
+original-language: "Turkish"
+youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 # Buyout Ecommerce
 dnr: #"https://www.dr.com.tr/kitap/dron-savascilari-buyuk-bulus/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001800073001"
 kitapyurdu: "https://www.kitapyurdu.com/kitap/demir-pence-suziko--afrika-macerasi-/518234.html&filter_name=Demir+Pen%C3%A7e+Suziko+Afrika+Maceras%C4%B1"

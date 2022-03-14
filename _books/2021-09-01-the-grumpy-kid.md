@@ -16,7 +16,7 @@ page: 192
 size: "13,5x21cm"
 publish-number: 29
 cover: "Hard Cover"
-original-name: "Saçaklı Kızın Pasaklı Günlüğü 1"
+original-name: "Asık Suratlı Çocuk 1 Uğultulu Orman"
 original-language: "Turkish"
 youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 soldcountry: ["TR","FR","USA","BAE"]

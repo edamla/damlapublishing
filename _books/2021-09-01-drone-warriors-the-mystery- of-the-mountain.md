@@ -15,7 +15,10 @@ languages: ["Türkçe"]
 page: 192
 size: "13,5x21cm"
 publish-number: 58
-cover: "Ciltli"
+cover: "Hard Cover"
+original-name: "Dron Savaşçıları Mağaradaki Sır"
+original-language: "Turkish"
+youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
 # Buyout Ecommerce
 dnr: #"https://www.dr.com.tr/kitap/gizemli-gizem/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001857499001"

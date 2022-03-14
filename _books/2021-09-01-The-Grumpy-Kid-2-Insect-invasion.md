@@ -15,7 +15,10 @@ languages: ["Türkçe"]
 page: 176
 size: "13,5x21cm"
 publish-number: 50
-cover: "Ciltli"
+cover: "Hard Cover"
+original-name: "Asık Suratlı Çocuk 2 Böcek İstilası"
+original-language: "Turkish"
+youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/asik-suratli-cocuk-2/nur-dombayci/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001812298001"

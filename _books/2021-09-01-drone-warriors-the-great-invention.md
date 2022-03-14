@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "Dron Savaşçıları Büyük Buluş"
+title:  "Drone Warriors The Great Invention"
 authors: ["necati-akbaba"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
@@ -15,7 +15,10 @@ languages: ["Türkçe"]
 page: 192
 size: "13,5x21cm"
 publish-number: 48
-cover: "Ciltli"
+cover: "Hard Cover"
+original-name: "Dron Savaşçıları Büyük Buluş"
+original-language: "Turkish"
+youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/dron-savascilari-buyuk-bulus/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001800073001"

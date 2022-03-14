@@ -15,7 +15,10 @@ languages: ["Türkçe"]
 page: 112
 size: "13,5x21cm"
 publish-number: 41
-cover: "Ciltli"
+cover: "Hard Cover"
+original-name: "Dedektif Kuruntusu 3 Kimin Bu İplik?"
+original-language: "Turkish"
+youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/kimin-bu-%C4%B1plik-dedektif-kuruntusu-3/cocuk-ve-genclik/genclik-10-yas/romanoyku/urunno=0001786699001"

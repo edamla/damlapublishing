@@ -15,8 +15,10 @@ languages: ["Türkçe"]
 page: 168
 size: "13,5x21cm"
 publish-number: 55
-cover: "Ciltli"
-
+cover: "Hard Cover"
+original-name: "Demir Pençe Suziko Antartika Macerası"
+original-language: "Turkish"
+youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/demir-pence-suziko-antartika-macerasi/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001867716001"
 kitapyurdu: "https://www.kitapyurdu.com/kitap/demir-pence-suziko-antarktika-macerasi/536274.html&filter_name=Demir+Pen%C3%A7e+Suziko"
