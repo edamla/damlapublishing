@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "Dedektif Kuruntusu 2 Bu Diş İzleri Kimin?"
+title:  "Rookie Inspector 2"
 authors: ["esra-avgoren"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]

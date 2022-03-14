@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "Dron Savaşçıları Mağaradaki Sır"
+title:  "Drone Warriors The Mystery of the Mountain"
 authors: ["necati-akbaba"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]

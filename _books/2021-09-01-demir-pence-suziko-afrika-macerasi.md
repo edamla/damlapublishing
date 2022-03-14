@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "Demir Pençe Suziko Afrika Macerası"
+title:  "AI Robot Suziko The African Adventure"
 authors: ["sara-gurbuz-ozeren"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]

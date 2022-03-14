@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "Asık Suratlı Çocuk 2 Böcek İstilası"
+title:  "The Grumpy Kid 2 Insect Invasion"
 authors: ["nur-dombayci"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]

@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "Dedektif Kuruntusu 3 Kimin Bu İplik?"
+title:  "Rookie Inspector 3"
 authors: ["esra-avgoren"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]

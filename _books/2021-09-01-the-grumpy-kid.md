@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "Asık Suratlı Çocuk 1 Uğultulu Orman"
+title:  "The Grumpy Kid 1 Howling Forest"
 authors: ["nur-dombayci"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
@@ -15,7 +15,11 @@ languages: ["Türkçe"]
 page: 192
 size: "13,5x21cm"
 publish-number: 29
-cover: "Ciltli"
+cover: "Hard Cover"
+original-name: "Saçaklı Kızın Pasaklı Günlüğü 1"
+original-language: "Turkish"
+youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
+soldcountry: ["TR","FR","USA","BAE"]
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/asik-suratli-cocuk/nur-dombayci/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0000000723980"
@@ -34,6 +38,7 @@ damlayayinevi: "https://www.damlayayinevi.com.tr/asik-suratli-cocuk-ve-onu-etkil
 ---
 Mert, aslında her çocuk gibi “normal” olmak isterdi. Ama sanırım doğarken bir şeyler olmuştu. Diğer 7 kardeşinden tek farkı asık suratlı olmasıydı, bir de her şeyden korkması! O kadar da büyük farklar sayılmaz canım bunlar. Sence de öyle değil mi?
 Kim korkmaz ki gömlek düğmesinin bir anda kopup boğazını tıkayarak yemek yemesini engellemesinden ve açlıktan eriyerek yok olmaktan? Uğultulu Orman; adı kadar korkunç ve uğultulu bir yer. Kimsenin içine girmediği, kenarından dahi dolaşmadığı korkunç bir orman... Bir gün Mert, abisi Zek’in gece yarısı uyurgezer bir şekilde ormana girdiğini görüyor. Tam o anda korkunç bir şey fark ediyor, tabii size göre korkunç... Mert öyle şeylerden hiç korkmuyor. Hımm, bunlar neler mi? Artık kitabın kapağını çevirme vaktin geldi.
+![deneme](/assets/images/ean/9786051742663.jpg)
 
 Bööööğğğğğğğ!
 

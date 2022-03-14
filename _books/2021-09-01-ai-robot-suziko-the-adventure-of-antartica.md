@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "Demir Pençe Suziko Antarktika Macerası"
+title:  "AI Robot Suziko The Adventure of Antarktica"
 authors: ["sara-gurbuz-ozeren"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
