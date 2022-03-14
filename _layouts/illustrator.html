@@ -18,26 +18,11 @@ layout: default
 					<p class="text-uppercase font-weight-bold">
                         <span class="catlist">
 						{% for tag in illustrator.tags %}
-                          <a class="sscroll text-danger" href="{{site.baseurl}}/etiketler.html#{{ tag | downcase }}">{{ tag | downcase }}</a><span class="sep">, </span>
+                          <a class="sscroll text-danger" href="{{site.baseurl}}/tags.html#{{ tag | downcase }}">{{ tag | downcase }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>
 					</p>
 					<h1 class="display-4 mb-4 article-headline">{{ illustrator.title }}</h1>
-					<div class="align-items-center">
-						
-							<!-- <h6 class="text-muted d-block mt-1">{{ illustrator.date | date: '%d.%m.%Y' }} · {% include meta-read-time.html %}</h6> -->
-							<h6 class="text-muted d-block mt-1">{% include meta-read-time.html %}</h6>
-
-						<div class="icon-block mt-3 justify-content-center">  
-							<div>
-							<a target="_blank" href="{{ illustrator.twitter }}"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
-							<a target="_blank" href="{{ illustrator.facebook }}"><i class="fab fa-facebook text-muted" aria-hidden="true"></i></a>  &nbsp;
-							<a target="_blank" href="{{ illustrator.youtube }}"><i class="fab fa-youtube text-muted" aria-hidden="true"></i></a>  &nbsp;
-							<a target="_blank" href="{{ illustrator.instagram }}"><i class="fab fa-instagram text-muted" aria-hidden="true"></i></a>  &nbsp;
-							<a target="_blank" href="{{ illustrator.site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
-							</div>
-						</div>
-					</div>
 				</div>
 			</div>
 		</div>
@@ -59,13 +44,23 @@ layout: default
 			</article>
 			
            
-			<h4 class="font-weight-bold spanborder"><span>Books by {{illustrator.title}}</span></h4>
+			<h4 class="font-weight-bold spanborder"><span>Illustrated by {{illustrator.title}}</span></h4>
 			<div class="row mb-3">
+				{% assign bookarray = "" | split: ',' %}
 				{% for book in site.books %}
-					{% if book.illustrators contains illustrator.key %}
-						{% include main-loop-book.html %}
-					{%endif %}
+					{%for bookillustrator in illustrator.key %}
+					<!-- kitapların içinde bu kitabın yazarlarını filtreledik. -->
+						{% if book.illustrators contains bookillustrator %}
+						<!-- çıktı olarak gelen kitapları bir array içine aldık -->
+							{% assign bookarray = bookarray | push: book %}
+						{%endif %}
+					{% endfor %}
 				{% endfor %}
+
+				<!-- arayyi uniqleştirdik aynı kitap 2 kere çıkmasın diye. -->
+				{% assign uniqbookArray = bookarray | uniq %}
+				{% assign books = uniqbookArray %}
+				{% include product-slider.html %}
 			</div>
 
 			 <!-- Mailchimp Subscribe Form -->

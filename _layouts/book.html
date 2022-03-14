@@ -50,7 +50,7 @@ layout: default
 							<div class="sscroll btn btn-light btn-sm font-weight-bold">
 							#{{ tag | downcase }}
 							</div>
-							<!-- <a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/etiketler.html#{{ tag | downcase }}">#{{ tag | downcase }}</a> -->
+							<!-- <a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/tags.html#{{ tag | downcase }}">#{{ tag | downcase }}</a> -->
 							{% endfor %}
 							</span>
 						</div>
@@ -107,7 +107,7 @@ layout: default
 
 							{% if book.illustrators %}
 							<li class="list-group-item">
-								<div class="md-v-line"></div><i class="fas fa-paint-brush mr-1 fa-lg text-warning"></i><span class="mr-1">Illustrator(s):</span>{% for bookillustrator in book.illustrators %} {% assign siteillustrator = site.illustrators | where:"key", bookillustrator | first %} <a href="{{ site.baseurl }}/{{siteillustrator.url}}">{{ siteillustrator.title }}</a>{% if forloop.last == false %},{% endif %} {% endfor %}
+								<div class="md-v-line"></div><i class="fas fa-paint-brush mr-1 fa-lg text-warning"></i><span class="mr-1">Illustrator(s):</span>{% for bookillustrator in book.illustrators %} {% assign siteillustrator = site.illustrators | where:"key", bookillustrator | first %} <a href="{{siteillustrator.url}}">{{ siteillustrator.title }}</a>{% if forloop.last == false %},{% endif %} {% endfor %}
 							</li>
 							{% endif %}
 
@@ -164,6 +164,23 @@ layout: default
         
         
 	</div>
+	{%if book.sold %}
+	<div class="col-md-12">
+		<div class="country card">
+			<div class="country card-body" id="countrylist">
+				<h5 class="card-title">Already Sold Contries:</h5>
+				<div class="row">
+					{% for country in book.sold %}
+					<div class="col-3 col-md-1">
+						<img class="img-fluid" src="{{ site.baseurl }}/assets/images/flags/{{ country }}.svg" code="{{ country }}" alt="{{ country }}" title="{{ country }}">
+					</div>
+					{% endfor %}
+				</div>
+				<a href="{{ site.baseurl }}/contact" class="btn btn-primary" style="display: table;">Contact us!</a>
+			</div>
+		</div>
+	</div>
+	{%endif %}
 
 	<!-- BuyOut -->
 	<div class="row" id="buyout">

@@ -18,26 +18,11 @@ layout: default
 					<p class="text-uppercase font-weight-bold">
                         <span class="catlist">
 						{% for tag in author.tags %}
-                          <a class="sscroll text-danger" href="{{site.baseurl}}/etiketler.html#{{ tag | downcase }}">{{ tag | downcase }}</a><span class="sep">, </span>
+                          <a class="sscroll text-danger" href="{{site.baseurl}}/tags.html#{{ tag | downcase }}">{{ tag | downcase }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>
 					</p>
 					<h1 class="display-4 mb-4 article-headline">{{ author.title }}</h1>
-					<!-- <div class="align-items-center">
-						
-							<h6 class="text-muted d-block mt-1">{{ author.date | date: '%d.%m.%Y' }} · {% include meta-read-time.html %}</h6>
-							<h6 class="text-muted d-block mt-1">{% include meta-read-time.html %}</h6>
-
-						<div class="icon-block mt-3 justify-content-center">  
-							<div>
-							<a target="_blank" href="{{ author.twitter }}"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
-							<a target="_blank" href="{{ author.facebook }}"><i class="fab fa-facebook text-muted" aria-hidden="true"></i></a>  &nbsp;
-							<a target="_blank" href="{{ author.youtube }}"><i class="fab fa-youtube text-muted" aria-hidden="true"></i></a>  &nbsp;
-							<a target="_blank" href="{{ author.instagram }}"><i class="fab fa-instagram text-muted" aria-hidden="true"></i></a>  &nbsp;
-							<a target="_blank" href="{{ author.site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
-							</div>
-						</div>
-					</div> -->
 				</div>
 			</div>
 		</div>
@@ -59,7 +44,7 @@ layout: default
 			</article>
 			
            
-			<h4 class="font-weight-bold spanborder"><span>{{author.title}} Books</span></h4>
+			<h4 class="font-weight-bold spanborder"><span>Written by {{author.title}}</span></h4>
 			<div class="row mb-3">
 				{% assign bookarray = "" | split: ',' %}
 							{% for book in site.books %}
