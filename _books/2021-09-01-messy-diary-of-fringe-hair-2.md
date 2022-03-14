@@ -36,20 +36,10 @@ damlayayinevi: "https://www.damlayayinevi.com.tr/sacakli-kiz-in-pasakli-gunlugu-
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Hey!
-Beni özledin mi?
-Haydi itiraf et, özledin değil mi?
-Heheh!
-Ben de arkadaşlarımla yaşadığım maceralarımı yazmayı, saçaklı saç tellerim kadar özledim.
-Eski günlüğüm bittiği için yeni bir günlük aldım, “günlükçe” bildiğim için yazdıkça yazdım, çizdikçe çizdim.
-Zaten bir günüm de nopnormal, sapsakin geçmiyor ki!..
-Etrafımdan gariplikler, başımdan güvercinler eksilmedi.
-Bir günlük tutalım dedik, başımıza gelmeyen kalmadı.
-Sana da günlük okunmaz demiştim, bakıyorum söz dinlememiş, okumalara doyamamışsın.
-Hadi bu defalık okumanı affettim, önceki günlüğümü “yanlışlıkla” okumuş olabilirsin.
-Ama bunu sakın ama sakın okuma!
-Kaç kez söyleyeceğim, ÖZEL GÜNLÜKTÜÜÜÜRR O-KU-NA-MAAAAZ!
-Ne kadar zıpır görünse de, Büş bize yaşlılara sevgiyi, hayvanlara merhameti, zor durumda olanın yanında olmayı, cesareti ve adaleti, hem iyimserliği hem de mücadele etmeyi öğretiyor.
-Dünyaya genç bir kızın gözünden bakmanın şahsına münhasır, komik bir öyküsü Büş’ün günlüğü…
+Hey! 
+
+Did you miss me? 
+
+Come on confess, you missed it? Heheh! I missed writing about my adven- tures with my friends as much as I missed my fringed hair. I bought a new diary because my old one was finished. I wrote and wrote, I drew and drew because I know “diarish”. My one day is neither ordinary nor quiet anyway! The strangeness around me and the pigeons over my head did not let me alone. I was telling myself to keep a diary and then there was not a thing left which is not happened to me. There is something wrong! Also, I told you that the diary is special and shouldn’t read. As I see you didn’t not just listen also satisfied how much you’ve read already. Come on, I forgive you at this time, you may have read my previous diary “accidentally”. But do not read this! How many times should I say it, S P E C I A L D I A R Y, D O N OT R E A D! No matter how madcap she may seem, Büş teaches us respect to the elders, love to animals, helping people who are in need, courage and justice, optimism and struggle. Looking at the world through the eyes of a young girl A Unique, funny story; Emmy's diary ...
 <!--more--> 
 
