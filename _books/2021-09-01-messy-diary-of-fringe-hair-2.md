@@ -9,6 +9,7 @@ image: assets/images/ean/9786051746968.jpg
 categories: [ "Young Adult", "Novel" ]
 tags: [ "dairy","fun","adventure"]
 previewpage: true
+featured: true
 
 # Book attributes
 ean: 9786051746968
@@ -40,6 +41,10 @@ Hey!
 
 Did you miss me? 
 
-Come on confess, you missed it? Heheh! I missed writing about my adven- tures with my friends as much as I missed my fringed hair. I bought a new diary because my old one was finished. I wrote and wrote, I drew and drew because I know “diarish”. My one day is neither ordinary nor quiet anyway! The strangeness around me and the pigeons over my head did not let me alone. I was telling myself to keep a diary and then there was not a thing left which is not happened to me. There is something wrong! Also, I told you that the diary is special and shouldn’t read. As I see you didn’t not just listen also satisfied how much you’ve read already. Come on, I forgive you at this time, you may have read my previous diary “accidentally”. But do not read this! How many times should I say it, S P E C I A L D I A R Y, D O N OT R E A D! No matter how madcap she may seem, Büş teaches us respect to the elders, love to animals, helping people who are in need, courage and justice, optimism and struggle. Looking at the world through the eyes of a young girl A Unique, funny story; Emmy's diary ...
+Come on confess, you missed it? Heheh! I missed writing about my adven- tures with my friends as much as I missed my fringed hair. I bought a new diary because my old one was finished. I wrote and wrote, I drew and drew because I know “diarish”. My one day is neither ordinary nor quiet anyway! The strangeness around me and the pigeons over my head did not let me alone. I was telling myself to keep a diary and then there was not a thing left which is not happened to me. There is something wrong! Also, I told you that the diary is special and shouldn’t read. As I see you didn’t not just listen also satisfied how much you’ve read already. Come on, I forgive you at this time, you may have read my previous diary “accidentally”. But do not read this!
+
+How many times should I say it, S P E C I A L D I A R Y, D O  N O T  R E A D!
+
+No matter how madcap she may seem, Büş teaches us respect to the elders, love to animals, helping people who are in need, courage and justice, optimism and struggle. Looking at the world through the eyes of a young girl A Unique, funny story; Emmy's diary ...
 <!--more--> 
 

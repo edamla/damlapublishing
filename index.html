@@ -14,7 +14,22 @@ description: "In service of education and literature since 1974..."
 
 <!-- slider -->
 {% include slider.html %}
+<hr>
+<!-- Featured Slider -->
+<h4 class="font-weight-bold spanborder mt-2"><span>Featured Titles</span></h4>
+{% assign bookarray = "" | split: ',' %}
+{% assign sortedarray = "" | split: ',' %}
 
+{% assign sortedarray = site.books | where:"featured","true" %}
+
+{% for book in sortedarray limit:10 %}
+    {% assign bookarray = bookarray | push: book %}
+{% endfor %}
+
+{% assign books = bookarray %}
+{% include product-slider.html %}
+
+<hr>
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row add-site-content-margin">
     
@@ -191,6 +206,7 @@ description: "In service of education and literature since 1974..."
     
 </div>
 
+<hr>
 
 <h4 class="font-weight-bold spanborder"><span>New Titles</span></h4>
 {% assign bookarray = "" | split: ',' %}
@@ -205,8 +221,8 @@ description: "In service of education and literature since 1974..."
 {% assign books = bookarray %}
 {% include product-slider.html %}
 
-<!-- {% assign books = site.books %}
-{% include product-slider.html %}
+<hr>
+
    
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in site.posts %} 

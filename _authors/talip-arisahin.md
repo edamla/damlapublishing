@@ -15,11 +15,9 @@ tags: #[ araştırmacı, tarihçi]
 
 # For adding excerpt add <!--more--> and break the line
 ---
-1941 yılında Konya’da doğdu. 1960 yılında Konya İmam Hatip Okulu’ndan, 1965 yılında İstanbul Yüksek İslâm Enstitüsü’nden (Şimdi Marmara Üniversitesi İlâhiyat Fakültesi) mezun oldu. Kars, Konya ve İstanbul’da çeşitli okullarda öğretmenlik ve idarecilik yaptı. 1984-1986 yıllarında Antalya’da Millî Eğitim Müdürlüğü görevinde bulundu. 1993 de emekli olduktan sonra da 2004 yılına kadar özel okullarda öğretmenlik yaparak, 39 yıl millî eğitime hizmet etti.
+He was born in Konya in 1941. He graduated from Konya Imam Hatip High School in 1960 and from Istanbul Higher Islamic Institute (now Marmara University Faculty of Theology) in 1965. He worked as a teacher and administrator in various schools in Kars, Konya and Istanbul. He worked as the Director of National Education in Antalya between 1984-1986. After retiring in 1993, he served in national education for 39 years by teaching in private schools until 2004.
 
-Eğitim öğretim hizmetleri dışında Mavi Kırlangıç, Tercüman Çocuk ve Diyanet Çocuk dergilerine hikâyeler yazdı.
-
-Eserleri: Yıldızlar Takımı, Ayının Dostluğu, Ağlayan Deve Yavrusu ve Masal Gibi İstanbul’un Fetih Hikâyesi, Küfeci, Minikler Takımı, Akaid ders kitabı, Din Kültürü ve Ahlak Bilgisi (4-8) ders kitabı, Çocuk Sahabeler Dizisi  (10 Kitap), Görgülü Kuşlar Gördüğünü İşler, Fatih’in İstanbul Rüyası.
+Apart from his education services, he wrote stories for the magazines "Mavi Kırlangıç", "Tercüman Çocuk" and "Diyanet Çocuk".
 
  
 <!--more-->

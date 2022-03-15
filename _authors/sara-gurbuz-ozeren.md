@@ -15,16 +15,12 @@ tags: #[ araştırmacı, tarihçi]
 
 # For adding excerpt add <!--more--> and break the line
 ---
-12 Şubat 1956 tarihinde Erzurum’un Şenkaya ilçesinde doğdu. İlköğrenimini bu ilçede tamamladı.
+She was born in Erzurum in 1956 and completed her primary school education in the same province.
+In 1968, she passed an exam and got the right to study in Yavuz Selim Boarding School and was honoured to be the best student when she graduted from this school in 1975.
+At the same year, she started working as a teacher in Gozalan Village in Erzurum.
+After working as a teacher in many primary schools in villages around Turkey, she returned to Erzurum and continued working in the same province until her retirement.
 
-1968 yılında girdiği sınavı kazanarak Yavuz Selim İlköğretmen Okulunda parasız yatılı olarak okumaya hak kazandı. 1975 yılında bu okuldan birincilikle mezun oldu.
-
-Aynı yıl Şenkaya’nın Gözalan Köyü’ne öğretmen olarak atandı. Yurdun çeşitli bölgelerinde köy öğretmenliği yaptıktan sonra Erzurum’a geri döndü ve emekli oluncaya kadar bu ilde görev yaptı.
-
-Özeren, çocukluğunda babasından ve ninesinden dinlediği masallar, halk hikâyeleri, halk ozanlarının hayatları, halk kahramanlarının serüvenleri sebebiyle edebiyata ilgi duymaya başladı. Sıradan insanların hikâyeleri, doğanın gizemi, mesleğinin gereği olarak çocuklarla yakından ilgilenmesi, onu yazar olmaya yönlendirdi.
-
-33 yıllık öğretmenlik mesleğinden sonra emekliye ayrılan Sara Gürbüz Özeren, hâlen Erzurum’da özel bir kolejde sınıf öğretmeni olarak çalışmaktadır.
-
-Evli ve iki çocuk annesi olan yazarın, Damla Yayınevi’nde başta Vatanın Kilidi Çanakkale, Donmuş Umutlar Sarıkamış ve 93 Harbi ve Nene Hatun olmak üzere pek çok kitabı yayımlanmıştır. 
+Ms. Özeren started to be interested in literature through the fairy tales, national stories, the lives of poets, the lives of national heroes and their adventures. The stories of ordinary people, the mystery of the nature and the special bounds that she has for the children through the nature of her profession directed her to start writing.
+After 33 years of successful career as a teacher, she got retired but still works as a primary school teacher in a private college in Erzurum. She is married and a mother to two children. She has more than 250 different titles published by Damla Publishing.
 <!--more-->
 

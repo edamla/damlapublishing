@@ -15,11 +15,13 @@ tags: #[ araştırmacı, tarihçi]
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Çocukken yazarların kendi yazdıkları kitabı resimlediğini sanan Nur Dombaycı; oynadığı “öğretmencilik” oyununda kendi yazdığı hikâyeleri resimlemekle çizerliğe başladı. Büyüyüp, birçok yayınevi ile çizer olarak çalıştıktan sonra, Küçük Hanımlar Mutfağa adlı 5 kitaplık serisini hem yazıp hem çizerek, yazarlık yolundaki ilk adımını da attı.
+As a kid, she always thought that the writers were the illustrators of their own books. So, she started drawing pictures for her own books when she was still a little kid.
+When she grew up, she started working with different publishing houses as an illustrator.
+She took her first step as an author by writing “Little Ladies in the Kitchen” and also did the illustrations in her book by herself.
 
-Artık sadece kendi yazdığı kitapların resimlerini çiziyor. Bunun sebebi de aklında yazacak çook kitap olması...
-
-25 yaşında, evli ve Emir’in annesi. Üniversitede Bilgisayar Programcılığı okumuş olsa da şimdi hayali olan Türk Dili ve Edebiyatı bölümünü okumaya başlayan Nur Dombaycı; hayal kurmayı, okumayı, yazmayı, öğrenmeyi, çizmeyi ve çocukları çok seviyor...
+Now, she only does illustrations for her own books. When she is asked ‘why only for her own books?’ she says that she has too many ideas to write about.
+She is 26 years old and a mother to a boy named Emir. Although she studied Computer Programming, she restarted studying and followed her heart and studies what she loves the most, Turkish Language and Literature. Her books published by Damla Publishing are “The Children of Ramadan,
+The Grandchild of an Inventor, The Grumpy Kid...”
 
  
 <!--more-->

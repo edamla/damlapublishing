@@ -15,6 +15,6 @@ tags: #[ araştırmacı, tarihçi]
 
 # For adding excerpt add <!--more--> and break the line
 ---
-1977 yılında Artvin’de doğdu. İlk ve ortaokulu Ankara’da, liseyi İstanbul’da bitirdi.1995-1999 yılları arasında İstanbul Üniversitesi Edebiyat Fakültesi Kütüphanecilik bölümünde okudu. Ortaokul yıllarında öykü denemelerine başladı. Bu çalışmalarını çeşitli dönemlerde sürdürdü. Üniversite yıllarında Çocuk Edebiyatı dersi oldukça ilgisini çekti. 1998 yılından bu yana çocuk öyküleri yazmayı sürdürüyor. Eserleri: Çalınan Mercek, Arabayı Kim Çaldı?, Gizli Dedektiflik Bürosu (10Kitap), İlya'nın Sırrı, Gizemli Ziyaretçi, Satranç Turnuvası, Sirkteki Esrar, Zehirli Variller, Yeni Program Diski, Uzaylı Okulu, Şampiyon Kaçırılacak, Kanatlı Denizatı Broşu Nerde?
+He was born in Artvin in 1977. He finished primary and secondary school in Ankara and high school in Istanbul. Between 1995-1999, he studied at Istanbul University, Faculty of Literature, Department of Librarianship. He began try to writing with short stories during his secondary school years. He continued this work at various times. During his university years, the Children's Literature course attracted a lot of attention. He has been writing children's stories since 1998.
 <!--more-->
 

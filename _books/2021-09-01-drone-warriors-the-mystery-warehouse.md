@@ -8,6 +8,7 @@ image: assets/images/ean/9786051743011.jpg
 categories: [ "Kültür", "Roman" ]
 tags: [ "bilim-kurgu" ]
 previewpage: true
+featured: false
 
 # Book attributes
 ean: 9786051743011

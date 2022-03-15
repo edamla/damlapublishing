@@ -5,9 +5,10 @@ authors: ["nur-dombayci"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051748207.jpg
-categories: [ "Kültür", "Hikaye" ]
-tags: [ "hikaye"]
+categories: [ "Culture", "Story" ]
+tags: [ "fiction"]
 previewpage: true
+featured: true
 
 # Book attributes
 ean: 9786051748207

@@ -15,8 +15,6 @@ tags: #[ araştırmacı, tarihçi]
 
 # For adding excerpt add <!--more--> and break the line
 ---
-1969 yılında Çanakkale’de doğdu. 1991’de,19 Mayıs Üniversitesi Hemşirelik Yüksekokulu’dan mezun oldu. Kısa süren bir meslek hayatının ardından yazım çalışmalarına başladı. Roman, öykü ve çocuk edebiyatı alanında kitapları yayımlandı. Vakit, Hece, Haksöz, İktibas, Nida, Bizim Bahçe gibi gazete ve dergilerde deneme ve öyküleri yer aldı. Evli ve üç çocuk annesi olan Nehir Aydın Gökduman, son yıllarda ağırlıklı olarak çocuk edebiyatıyla ilgileniyor. Eserleri: Alican'ın Günlüğü Dizisi (10Kitap), Görgü ve Nezaket Kuralları Dizisi (3Kitap), Küçük Kâtip Zeyd Bin Sabit, Küçük Kızın Sevinci, Küçük Köle Zeyd Bir Harise, Masal Saati, Mutlu Kızlar, Nefir Hurmalar ve Rafi, Peygamberi Özleyen Çocuk Amr Bin Sele, Peygamberimizin Çocuk Arkadaşları (10 Kitap), Zeyd'in Kuşu – Ebu Umeyr, Yetim Kız.
-
- 
+She was born in Çanakkale. She graduated from 19 Mayis University, school of health service. She has been interested in literature for many years. Her essays and stories were published in various magazines and newspapers. She worked as an editor. Over 100 books have been published in the field of short stories, fiction and novels. The author, who has researches about family and children, continues to give lectures in Turkey and abroad. She lives in Istanbul.
 <!--more-->
 

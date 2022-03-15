@@ -8,6 +8,7 @@ image: assets/images/ean/9786051746029.jpg
 categories: [ "Cultural", "Novel", "Young" ]
 tags: [ "dedective", "rookie" ]
 previewpage: true
+featured: true
 
 # Book attributes
 ean: 9786051746029
@@ -35,11 +36,14 @@ damlayayinevi: "https://www.damlayayinevi.com.tr/dedektif-kuruntusu-2-bu-dis-izl
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Kantin sırası neden kilometrelerce uzadı?
-Ali Bozkurt neden kavga etmişti?
-Tüm okulu saran yeni heyecan neydi?
-Yerli malı haftası! Fakat beklenmedik bir şey oldu. Yemek sergisi için hazırlanan spor salonu dağıtılmıştı. Peki şüpheliler kimdi?
-“Dünya üzerinde açlık” bildirilerini hazırlayıp dağıtan Fatma Yıldırtan ve Ali Bozkurt’tu. Bütün şüpheler onların üzerine çevrildi.
-Fatma ve Ali bu durumdan nasıl çıkacaktı?
-Yiyeceklerdeki diş izleri kime aitti?
+Fatma and Ali are involved in a brawl at school and Ali gets really sad because of this. Fatma
+consoles Ali as a good friend. This incident is being forgotten soon at school because everyone
+starts thinking about the week of domestic goods. But Fatma sees the week of domestic goods is
+deviating from its purpose. And she shares her feelings with Ali about this problem. Ali has had a
+great idea. They want to create a brochure about the hunger in the world and they will distribute
+them at school. Two friends get started working on it quickly. Meanwhile something unexpected
+happens. The food exhibition which is prepared for the domestic goods week was messed up by
+some people. The principal summons Ali and Fatma about this and he thinks they did this. Ali
+wants permission to prove that they did not do this. Fatma and Ali inspect the spoiling incident
+that happened in the exhibition. And they find who is guilty and tell the manager with details.
 <!--more--> 

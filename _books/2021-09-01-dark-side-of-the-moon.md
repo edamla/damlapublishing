@@ -1,21 +1,24 @@
 ---
 layout: book
-title:  "Ay'ın Karanlık Yüzü İrus Uygarlığı"
+title:  "Dark Side OF THE MOON"
 authors: ["necati-akbaba"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051743530.jpg
-categories: [ "Kültür", "Roman" ]
-tags: [ "bilim kurgu"]
+categories: [ "Culture", "Novel" ]
+tags: [ "science finction"]
 previewpage: true
 
 # Book attributes
 ean: 9786051743530
-languages: ["Türkçe"]
+languages: ["English"]
 page: 208
 size: "13,5x21cm"
 publish-number: 35
-cover: "Ciltli"
+cover: "Hard Cover"
+original-name:  "Ayın Karanlık Yüzü"
+original-language: "Turkish"
+youtube: #https://www.youtube.com/watch?v=nmZulTMmh1U
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/ayin-karanlik-yuzundeki-%C4%B1rus-uygarligi/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001697011001"
@@ -32,15 +35,19 @@ damlayayinevi: "https://www.damlayayinevi.com.tr/ay-in-karanlik-yuzundeki-irus-u
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Amaçları macera yaşamak ya da eğlenmek değildi.
-Onlar İrus'tan ayrılırken, yaşayabilecekleri yeni bir gezegen bulabilme heyecanıyla doluydu.
-İrus 8011 Uzay Gemisi amacına ulaşabilecek miydi?
-Kaptan Aka, zeki ve yetenekli ekibiyle bu zorlu süreçten geçebilecek miydi?
-Uzay gemisindeki topluluklar birbirleriyle anlaşabilecekler miydi?
-Ekosistem bahçesi, uzay gemisinin tüm ihtiyacını karşılayabilecek miydi?
-Yaşanan şok dalgası onları nereye sürükleyecekti?
-Peki ya bu yolculuğun sonuçları onları nasıl etkileyecekti?
-Farklı gezegenlerde yaşarken zorlu maceraların ardından bir araya gelen bu insanlar yaşayabilecekleri yeni bir yer bulabilecekler miydi?
-Ay'ın Karanlık Yüzündeki İrus Uygarlığı, okurken size farklı dünyalara götürecek, âdeta sizi gezegenler arasında bir yolculuğa ve inanılmaz keşiflere sürükleyecek...
+They didn’t mean to have an adventure or fun. They were filled
+with excitement of discovering a new planet to settle.
+Will Spacecraft Irus 8011 make it happen?
+Will Captain Aka make it happen by the help of his talented and
+smart crew?
+Will the folks in the spacecraft get along with each other?
+Will the ecosystem garden be enough for their needs?
+Where will the shockwaves drag them into?
+How will the results of this adventure affect them?
+Will these folks who lived on different planets and went through
+many hardships find a new place to live?
+The civilization of Irus, on the dark side of the moon, will take you
+to places that you have never been or heard of before and will
+drag you into an ultimate adventure...
 <!--more--> 
 

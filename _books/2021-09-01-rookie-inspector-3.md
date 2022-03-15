@@ -5,9 +5,10 @@ authors: ["esra-avgoren"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051740317.jpg
-categories: [ "Kültür", "Hikaye" ]
-tags: [ "polisiye" ]
+categories: [ "Culture", "Story" ]
+tags: [ "cloak-and-dagger" ]
 previewpage: true
+featured: true
 
 # Book attributes
 ean: 9786051740317
@@ -35,10 +36,16 @@ damlayayinevi: "https://www.damlayayinevi.com.tr/dedektif-kuruntusu-3-kimin-bu-i
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Fatma hafta sonunu istediği gibi geçirebilecek miydi?
-Neden kitapların sonunu önce okuyordu?
-Peki annesi ile alışveriş merkezine neden gittiler?
-Okula gizlice götürdüğü tableti kim çantasından almıştı?
-Fatma ve Ali bu olayı Fatma ceza almadan çözebilecek miydi?
-Bu ve daha fazlası sorunun cevabı içeride!
+Fatma was thinking that she had a fun weekend. Firstly she finished her homework. She
+needed a calculator to check her math homework. She asked permission from her mother to take
+her brother’s calculator. Her mother permitted but although she rummaged the room, she couldn’t
+find it. A genius idea popped into her head. She was going to take her brother’s tablet and use
+its calculator, read a book, watch a video. Then she was going to sleep. She went to school after
+waking up with a tablet in her hand, dizzy. Of course, she didn’t forget to put the tablet into her bag.
+After a boring class of the new Turkish teacher, she ran out to the garden as soon as she heard
+the break bell. But when she came back, she found her bag open and saw it was empty. The tablet
+was gone. This was such an awful situation. How was it stolen when no one saw the tablet? Her
+best friend, Ali was, immediately came to help. They’ve got two clues; the thief was left-handed
+and a short yarn part. They checked everyone in the school canteen to find out whom the yarn
+part belongs to. And of course, they found out the thief shortly after. Fatma got off cheap this time.
 <!--more--> 

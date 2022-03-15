@@ -1,12 +1,12 @@
 ---
 layout: book
-title:  "Arsen Lüpen İstanbul'da"
+title:  "Arsène Lupin in Istanbul"
 authors: ["peyami-safa"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051740928.jpg
-categories: [ "Kültür", "Roman" ]
-tags: [ "roman", "Polisiye","Cingöz Recai Serisi"]
+categories: [ "Culture", "Novel", "Detective" ]
+tags: [ "fiction", "whodunit","Cingöz Recai"]
 previewpage: true
 
 # Book attributes
