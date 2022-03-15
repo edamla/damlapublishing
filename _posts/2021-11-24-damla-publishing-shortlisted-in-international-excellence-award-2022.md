@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "International Excellence Award 2022"
+title:  "Damla Publishing Shortlisted in International Excellence Award 2022"
 authors: #["sara-gurbuz-ozeren"]
 categories: [ Award ]
 image: assets/images/posts/international-excellence-award-2022.png
