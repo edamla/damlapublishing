@@ -5,7 +5,7 @@ authors: ["nehir-aydin-gokduman"]
 categories: [ Söyleşi ]
 image: assets/images/posts/nehir_aydin_gokduman-edebiyat-uzerine.jpg
 tags: [Nehir Aydın Gökduman, çocuk edebiyatı]
-sticky: true
+sticky: false
 featured: true
 # For adding excerpt add <!--more--> and break the line
 ---

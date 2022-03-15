@@ -5,6 +5,7 @@ authors: #["sara-gurbuz-ozeren"]
 categories: [ Award ]
 image: assets/images/posts/international-excellence-award-2022.png
 tags: ["Award","Young Adult","Children"]
+sticky: true
 featured: true
 # For adding excerpt add <!--more--> and break the line
 ---
