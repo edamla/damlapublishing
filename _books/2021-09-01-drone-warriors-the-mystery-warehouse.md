@@ -5,8 +5,8 @@ authors: ["necati-akbaba"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051743011.jpg
-categories: [ "Kültür", "Roman" ]
-tags: [ "bilim-kurgu" ]
+categories: [ "Culture", "Novel" ]
+tags: [ "science fiction"]
 previewpage: true
 featured: false
 

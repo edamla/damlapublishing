@@ -19,7 +19,7 @@ publish-number: 42
 cover: "Hard Cover"
 original-name: "Dedektif Kurutusu 2 Bu Diş izleri Kimin?"
 original-language: "Turkish"
-youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
+youtube: #https://www.youtube.com/watch?v=GhleZ7bS7fs
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/dedektif-kuruntusu-2-bu-dis-%C4%B1zleri-kimin/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-oykuhikaye/urunno=0001750195001"

@@ -5,8 +5,8 @@ authors: ["necati-akbaba"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051748030.jpg
-categories: [ "Kültür", "Hikaye" ]
-tags: [ "fantastik" ]
+categories: [ "Culture", "Novel" ]
+tags: [ "fantastic"]
 previewpage: true
 
 # Book attributes

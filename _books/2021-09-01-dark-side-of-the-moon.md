@@ -6,7 +6,7 @@ illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786051743530.jpg
 categories: [ "Culture", "Novel" ]
-tags: [ "science finction"]
+tags: [ "science fiction"]
 previewpage: true
 
 # Book attributes
