@@ -20,8 +20,8 @@ original-name: "Saçaklı Kızın Pasaklı Günlüğü 1"
 original-language: "Turkish"
 youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
-# Foreign Rights Deportment attributes
-sold: ["TR","US","FR","BAE","CA","DE","ES","IT","JP","KR","MX","NL","NO","RU","SE","UK","ZW"]
+# Foreign Rights attributes
+sold: ["FR","DE","ES","IT","JP","KR","MX"]
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/sacakli-kizin-pasakli-gunlugu/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-oykuhikaye/urunno=0001735129001"

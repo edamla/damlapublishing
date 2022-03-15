@@ -165,7 +165,7 @@ layout: default
         
 	</div>
 	{%if book.sold %}
-	<div class="col-md-12">
+	<div class="col-md-12 mb-3">
 		<div class="country card">
 			<div class="country card-body" id="countrylist">
 				<h5 class="card-title">Already Sold Contries:</h5>
@@ -176,7 +176,10 @@ layout: default
 					</div>
 					{% endfor %}
 				</div>
-				<a href="{{ site.baseurl }}/contact" class="btn btn-primary" style="display: table;">Contact us!</a>
+				<hr>
+				<div class="row text-center mt-2 ml-1">
+					<a href="{{ site.baseurl }}/contact" class="btn btn-primary">Contact us for your Country/Language</a>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -283,7 +286,7 @@ layout: default
 	<!-- Books by Author(s) -->
 	<div class="row">
 		<div class="col-12">
-			<h4 class="font-weight-bold spanborder"><span>Books by Author(s)</span></h4>
+			<h4 class="font-weight-bold spanborder"><span>Written by Author(s)</span></h4>
 			<div class="row mb-3">
 				
 				{% assign bookarray = "" | split: ',' %}
