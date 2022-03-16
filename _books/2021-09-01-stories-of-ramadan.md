@@ -20,6 +20,9 @@ original-name: "Ramazan Yağmuru"
 original-language: "Turkish"
 youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
+# Foreign Rights attributes
+sold: ["SY","ID"]
+
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/ramazan-yagmuru/nehir-aydin-gokduman/din-mitoloji/%C4%B1slamiyet/urunno=0000000723993"
 kitapyurdu: "https://www.kitapyurdu.com/kitap/ramazan-yagmuru/409864.html&filter_name=Ramazan+Ya%C4%9Fmuru"

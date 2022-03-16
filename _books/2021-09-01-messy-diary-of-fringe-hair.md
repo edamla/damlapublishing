@@ -22,7 +22,7 @@ original-language: "Turkish"
 youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
 # Foreign Rights attributes
-sold: ["FR","DE","ES","IT","JP","KR","MX"]
+sold: ["AZ","BA","LB","AL","KZ","RU","NP","MN","US","UZ","MY","MX"]
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/sacakli-kizin-pasakli-gunlugu/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-oykuhikaye/urunno=0001735129001"

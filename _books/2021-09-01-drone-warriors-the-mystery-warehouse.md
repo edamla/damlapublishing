@@ -21,6 +21,8 @@ original-name: "Dron Savaşçıları Gizemli Depo"
 original-language: "Turkish"
 youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
+# Foreign Rights attributes
+sold: ["SY"]
 
 # Buyout Ecommerce
 dnr: #"https://www.dr.com.tr/kitap/dron-savascilari-buyuk-bulus/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001800073001"

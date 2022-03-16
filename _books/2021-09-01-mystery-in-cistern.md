@@ -20,6 +20,9 @@ original-name: "Dehlizdeki Sır"
 original-language: "Turkish"
 youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
+# Foreign Rights attributes
+sold: ["SY"]
+
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/dehlizdeki-sir/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001788052001"
 kitapyurdu: "https://www.kitapyurdu.com/kitap/dehlizdeki-sir/485273.html&filter_name=Dehlizdeki+S%C4%B1r"

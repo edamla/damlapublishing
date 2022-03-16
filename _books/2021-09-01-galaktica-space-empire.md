@@ -20,6 +20,9 @@ original-name:  "Galaktika Uzay İmparatorluğu"
 original-language: "Turkish"
 youtube: #https://www.youtube.com/watch?v=nmZulTMmh1U
 
+# Foreign Rights attributes
+sold: ["AE"]
+
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/galaktika-uzay-%C4%B1mparatorlugu/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-bilim/urunno=0001750193001"
 kitapyurdu: "https://www.kitapyurdu.com/kitap/galaktika-uzay-imparatorlugu/455955.html&filter_name=Galaktika+Uzay+%C4%B0mparatorlu%C4%9Fu"

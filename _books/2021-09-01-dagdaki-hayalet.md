@@ -20,6 +20,9 @@ original-name: "Dağdaki Hayalet"
 original-language: "Turkish"
 youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
+# Foreign Rights attributes
+sold: ["AL"]
+
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/dagdaki-hayalet/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001694021001"
 kitapyurdu: "https://www.kitapyurdu.com/kitap/dagdaki-hayalet/419532.html&filter_name=Da%C4%9Fdaki+Hayalet"

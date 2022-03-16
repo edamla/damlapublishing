@@ -20,6 +20,9 @@ original-name: "Kitap Korsanlarının Peşinde"
 original-language: "Turkish"
 youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
+# Foreign Rights attributes
+sold:
+
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/kitap-korsanlarinin-pesinde/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001800074001"
 kitapyurdu: "https://www.kitapyurdu.com/kitap/kitap-korsanlarinin-pesinde/495669.html&filter_name=Kitap+Korsanlar%C4%B1n%C4%B1n+Pe%C5%9Finde"

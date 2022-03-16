@@ -22,6 +22,9 @@ original-name: "Dron Savaşçıları Karanlık Orman"
 original-language: "Turkish"
 youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
+# Foreign Rights attributes
+sold: ["SY"]
+
 # Buyout Ecommerce
 dnr: #"https://www.dr.com.tr/kitap/gizemli-gizem/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001857499001"
 kitapyurdu: #"https://www.kitapyurdu.com/kitap/gizemli-gizem/527848.html&filter_name=Gizemli+Gizem"

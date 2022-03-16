@@ -20,6 +20,9 @@ original-name: "Yeraltındaki Gizem"
 original-language: "Turkish"
 youtube: #https://www.youtube.com/watch?v=GhleZ7bS7fs
 
+# Foreign Rights attributes
+sold: ["SY"]
+
 # Buyout Ecommerce
 dnr: #"https://www.dr.com.tr/kitap/ozanlarin-dilinden/sara-gurbuz-ozeren/edebiyat/edebiyat-%C4%B1nceleme/urunno=0000000724079"
 kitapyurdu: "https://www.kitapyurdu.com/kitap/yeraltindaki-gizem-/419536.html&filter_name=Yeralt%C4%B1ndaki+Gizem"

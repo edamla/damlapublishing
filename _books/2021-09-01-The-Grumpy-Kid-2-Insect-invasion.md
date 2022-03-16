@@ -21,6 +21,9 @@ original-name: "Asık Suratlı Çocuk 2 Böcek İstilası"
 original-language: "Turkish"
 youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
+# Foreign Rights attributes
+sold: ["AZ","BA","LB","AL","KZ","RU","NP","MN","US","UZ"]
+
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/asik-suratli-cocuk-2/nur-dombayci/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001812298001"
 kitapyurdu: "https://www.kitapyurdu.com/kitap/asik-suratli-cocuk--bocek-istilasi/502836.html&filter_name=As%C4%B1k+Suratl%C4%B1+%C3%87ocuk"

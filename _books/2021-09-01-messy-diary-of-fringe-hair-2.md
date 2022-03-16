@@ -22,6 +22,9 @@ original-name:  "Saçaklı Kız'ın Pasaklı Günlüğü 2 Bu İşte Bi Terslik 
 original-language: "Turkish"
 youtube: https://www.youtube.com/watch?v=nmZulTMmh1U
 
+# Foreign Rights attributes
+sold: ["AZ","BA","LB","AL","KZ","RU","NP","MN","US","UZ","MY","MX"]
+
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/sacakli-kizin-pasakli-gunlugu-2/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001893059001"
 kitapyurdu: "https://www.kitapyurdu.com/kitap/sacakli-kizin-pasakli-gunlugu-2-/560122.html&filter_name=Sa%C3%A7akl%C4%B1+K%C4%B1z%27%C4%B1n+Pasakl%C4%B1+G%C3%BCnl%C3%BC%C4%9F%C3%BC+2"

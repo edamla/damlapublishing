@@ -17,6 +17,9 @@ size: "13,5x21cm"
 publish-number: 27
 cover: "Karton Kapak"
 
+# Foreign Rights attributes
+sold: ["AL","UZ"]
+
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/cingoz-recai-arsen-lupen-%C4%B1stanbulda/peyami-safa/edebiyat/roman/polisiye/urunno=0000000673268"
 kitapyurdu: "https://www.kitapyurdu.com/kitap/cingoz-recai--arsen-lupen-istanbulda/381668.html&filter_name=Arsen+L%C3%BCpen+%C4%B0stanbul%27da"

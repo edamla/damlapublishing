@@ -21,6 +21,9 @@ original-name: "Dedektif Kurutusu 2 Bu Diş izleri Kimin?"
 original-language: "Turkish"
 youtube: #https://www.youtube.com/watch?v=GhleZ7bS7fs
 
+# Foreign Rights attributes
+sold: ["LB","KZ","ID","RU","MN"]
+
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/dedektif-kuruntusu-2-bu-dis-%C4%B1zleri-kimin/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-oykuhikaye/urunno=0001750195001"
 kitapyurdu: "https://www.kitapyurdu.com/kitap/dedektif-kuruntusu-2--bu-dis-izleri-kimin/455954.html&filter_name=Dedektif+Kuruntusu-2%3A+Bu+Di%C5%9F+%C4%B0zleri+Kimin%3F"

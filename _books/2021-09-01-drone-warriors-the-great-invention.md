@@ -22,6 +22,9 @@ original-name: "Dron Savaşçıları Büyük Buluş"
 original-language: "Turkish"
 youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
+# Foreign Rights attributes
+sold: ["SY"]
+
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/dron-savascilari-buyuk-bulus/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001800073001"
 kitapyurdu: "https://www.kitapyurdu.com/kitap/dron-savascilari-amp-buyuk-bulus/495663.html&filter_name=Dron+Sava%C5%9F%C3%A7%C4%B1lar%C4%B1+B%C3%BCy%C3%BCk+Bulu%C5%9F"

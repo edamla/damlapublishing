@@ -20,6 +20,9 @@ original-name: "Dedektif Kuruntusu 1 Kimin Bu Parmak İzi?"
 original-language: "Turkish"
 youtube: #https://www.youtube.com/watch?v=GhleZ7bS7fs
 
+# Foreign Rights attributes
+sold: ["LB","KZ","ID","RU","MN"]
+
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/dedektif-kuruntusu-1-kimin-bu-parmak-%C4%B1zi/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-oykuhikaye/urunno=0001735126001"
 kitapyurdu: "https://www.kitapyurdu.com/kitap/dedektif-kuruntusu-1--kimin-bu-parmak-izi/444053.html&filter_name=Dedektif+Kuruntusu"

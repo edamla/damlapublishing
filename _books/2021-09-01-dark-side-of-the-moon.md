@@ -20,6 +20,9 @@ original-name:  "Ayın Karanlık Yüzü"
 original-language: "Turkish"
 youtube: #https://www.youtube.com/watch?v=nmZulTMmh1U
 
+# Foreign Rights attributes
+sold: ["SY"]
+
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/ayin-karanlik-yuzundeki-%C4%B1rus-uygarligi/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001697011001"
 kitapyurdu: "https://www.kitapyurdu.com/kitap/ayin-karanlik-yuzundeki-irus-uygarligi/421614.html&filter_name=Ay%27%C4%B1n+Karanl%C4%B1k+Y%C3%BCz%C3%BCndeki+%C4%B0rus+Uygarl%C4%B1%C4%9F%C4%B1"

@@ -21,6 +21,9 @@ original-name: "Dedektif Kuruntusu 3 Kimin Bu İplik?"
 original-language: "Turkish"
 youtube: #https://www.youtube.com/watch?v=GhleZ7bS7fs
 
+# Foreign Rights attributes
+sold: ["LB","KZ","ID","RU","MN"]
+
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/kimin-bu-%C4%B1plik-dedektif-kuruntusu-3/cocuk-ve-genclik/genclik-10-yas/romanoyku/urunno=0001786699001"
 kitapyurdu: "https://www.kitapyurdu.com/kitap/dedektif-kuruntusu-3--kimin-bu-iplik/483842.html&filter_name=Dedektif+Kuruntusu-3%3A+Kimin+Bu+%C4%B0plik%3F"

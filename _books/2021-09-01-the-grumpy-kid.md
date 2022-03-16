@@ -21,6 +21,8 @@ original-name: "Asık Suratlı Çocuk 1 Uğultulu Orman"
 original-language: "Turkish"
 youtube: https://www.youtube.com/watch?v=GhleZ7bS7fs
 
+# Foreign Rights attributes
+sold: ["AZ","BA","LB","AL","KZ","RU","NP","MN","US","UZ"]
 
 # Buyout Ecommerce
 dnr: "https://www.dr.com.tr/kitap/asik-suratli-cocuk/nur-dombayci/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0000000723980"
@@ -37,7 +39,7 @@ damlayayinevi: "https://www.damlayayinevi.com.tr/asik-suratli-cocuk-ve-onu-etkil
 
 # For adding excerpt add <!--more--> and break the line
 ---
-Bravery always wanted to be a “normal” kid just like other kids.
+Cesur always wanted to be a “normal” kid just like other kids.
 But something went wrong when her mother gave birth to him. He
 was the only one who was born with a grumpy face and he was
 afraid of everything around himself! I guess these aren’t really huge
