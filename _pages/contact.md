@@ -24,7 +24,7 @@ CAGALOGLU - FATIH, 34110 ISTANBUL</div>
 </div>
 
 <hr>
-<form action="https://formspree.io/f/xyyojrqo" method="POST">    
+<!-- <form action="https://formspree.io/f/xyyojrqo" method="POST">    
 <p class="mb-4"> We will reply as soon as possible!</p>
 <div class="form-group row">
 <div class="col-md-6">
@@ -36,4 +36,4 @@ CAGALOGLU - FATIH, 34110 ISTANBUL</div>
 </div>
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
 <input class="btn btn-success" type="submit" value="Send">
-</form>
+</form> -->
